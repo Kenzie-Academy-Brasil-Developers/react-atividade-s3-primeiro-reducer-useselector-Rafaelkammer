@@ -1,0 +1,17 @@
+.container {
+  margin: 10px;
+  border: 2px solid rgb(90, 90, 90);
+  padding: 25px;
+}
+
+.banana {
+  color: yellow;
+}
+
+.maçã {
+  color: tomato;
+}
+
+.morango {
+  color: pink;
+}
